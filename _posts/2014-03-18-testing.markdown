@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "testing"
+date:   2014-03-18 00:38:14
+categories: jekyll update
+---
+
+This is a test post!
+
+One more line.
